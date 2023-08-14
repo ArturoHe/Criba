@@ -1,14 +1,7 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
 package com.mycompany.criba;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author famil
- */
 public class Criba {
 
     public static void main(String[] args) {
